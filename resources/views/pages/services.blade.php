@@ -119,7 +119,7 @@
                               <div class="row">
                                  <div class="col-xs-12">
                                     <div class="custom74 view">
-                                       <a href="/danh-muc/danh-muc-game-free-fire" class="" title="Danh Mục Game Free Fire">
+                                       <a href="{{route('sub_services','cày-thuê-liên-quân')}}" class="" title="Danh Mục Game Free Fire">
                                           &nbsp;
                                           <style type="text/css">
                                              .custom74{
@@ -158,7 +158,7 @@
                         <div class="classWithPad">
                            <div class="news_image">
                               <img style="position: absolute;max-width: 79px;height: auto;top: -5px;right: -6px;z-index: 1122;" src="img/giam.png"/>
-                              <a href="/danh-muc/danh-muc-game-free-fire" title="Danh Mục Game Free Fire" class="">
+                              <a href="{{route('sub_services','cày-thuê-liên-quân')}}" title="Danh Mục Game Free Fire" class="">
                               <img src="img/danhmuc.gif" alt="Danh Mục Game Free Fire"></a>
                            </div>
                            <div class="news_title">
@@ -178,7 +178,7 @@
                               <div class="row">
                                  <div class="col-xs-12">
                                     <div class="custom75 view">
-                                       <a href="/danh-muc/danh-muc-game-lien-minh" class="" title="Danh Mục Game Liên Minh">
+                                       <a href="{{route('sub_services','cày-thuê-liên-quân')}}" class="" title="Danh Mục Game Liên Minh">
                                           &nbsp;
                                           <style type="text/css">
                                              .custom75{
@@ -217,12 +217,12 @@
                         <div class="classWithPad">
                            <div class="news_image">
                               <img style="position: absolute;max-width: 79px;height: auto;top: -5px;right: -6px;z-index: 1122;" src="img/giam.png"/>
-                              <a href="/danh-muc/danh-muc-game-free-fire" title="Danh Mục Game Free Fire" class="">
+                              <a href="{{route('sub_services','cày-thuê-liên-quân')}}" title="Danh Mục Game Free Fire" class="">
                               <img src="img/danhmuc.gif" alt="Danh Mục Game Free Fire"></a>
                            </div>
                            <div class="news_title">
                               <h2>
-                                 <a href="/danh-muc/danh-muc-game-ngoc-rong" title="Danh Mục Game Ngọc Rồng">Danh Mục Game Ngọc Rồng</a>
+                                 <a href="{{route('sub_services','cày-thuê-liên-quân')}}" title="Danh Mục Game Ngọc Rồng">Danh Mục Game Ngọc Rồng</a>
                               </h2>
                            </div>
                            <div class="news_description">
@@ -237,7 +237,7 @@
                               <div class="row">
                                  <div class="col-xs-12">
                                     <div class="custom76 view">
-                                       <a href="/danh-muc/danh-muc-game-ngoc-rong" class="" title="Danh Mục Game Ngọc Rồng">
+                                       <a href="{{route('sub_services','cày-thuê-liên-quân')}}" class="" title="Danh Mục Game Ngọc Rồng">
                                           &nbsp;
                                           <style type="text/css">
                                              .custom76{
@@ -276,12 +276,12 @@
                         <div class="classWithPad">
                            <div class="news_image">
                               <img style="position: absolute;max-width: 79px;height: auto;top: -5px;right: -6px;z-index: 1122;" src="img/giam.png"/>
-                              <a href="/danh-muc/danh-muc-game-free-fire" title="Danh Mục Game Free Fire" class="">
+                              <a href="{{route('sub_services','cày-thuê-liên-quân')}}" title="Danh Mục Game Free Fire" class="">
                               <img src="img/danhmuc.gif" alt="Danh Mục Game Free Fire"></a>
                            </div>
                            <div class="news_title">
                               <h2>
-                                 <a href="/danh-muc/danh-muc-game-pubg-mobile" title="Danh Mục Game Pubg Mobile">Danh Mục Game Pubg Mobile</a>
+                                 <a href="{{route('sub_services','cày-thuê-liên-quân')}}" title="Danh Mục Game Pubg Mobile">Danh Mục Game Pubg Mobile</a>
                               </h2>
                            </div>
                            <div class="news_description">

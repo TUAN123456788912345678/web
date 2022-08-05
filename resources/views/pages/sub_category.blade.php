@@ -367,7 +367,7 @@
                      <div class="image">
                         <a href="/acc/518480">
                            <!-- <a href="/acc/518480"> -->
-                           <img src="img/3RcdbTs582_1650188706.jpg" alt="png-image">
+                           <img src="{{asset('frontend/images/3RcdbTs582_1650188706.jpg')}}" alt="png-image">
                            <span class="ms">MS: 518480</span>
                         </a>
                      </div>
@@ -412,7 +412,7 @@
                      <div class="image">
                         <a href="/acc/518480">
                            <!-- <a href="/acc/518480"> -->
-                           <img src="img/3RcdbTs582_1650188706.jpg" alt="png-image">
+                           <img src="{{asset('frontend/images/3RcdbTs582_1650188706.jpg')}}" alt="png-image">
                            <span class="ms">MS: 518480</span>
                         </a>
                      </div>
@@ -457,7 +457,7 @@
                      <div class="image">
                         <a href="/acc/518480">
                            <!-- <a href="/acc/518480"> -->
-                           <img src="img/3RcdbTs582_1650188706.jpg" alt="png-image">
+                           <img src="{{asset('frontend/images/3RcdbTs582_1650188706.jpg')}}" alt="png-image">
                            <span class="ms">MS: 518480</span>
                         </a>
                      </div>
@@ -502,7 +502,7 @@
                      <div class="image">
                         <a href="/acc/518480">
                            <!-- <a href="/acc/518480"> -->
-                           <img src="img/3RcdbTs582_1650188706.jpg" alt="png-image">
+                           <img src="{{asset('frontend/images/3RcdbTs582_1650188706.jpg')}}" alt="png-image">
                            <span class="ms">MS: 518480</span>
                         </a>
                      </div>
@@ -547,7 +547,7 @@
                      <div class="image">
                         <a href="/acc/518480">
                            <!-- <a href="/acc/518480"> -->
-                           <img src="img/3RcdbTs582_1650188706.jpg" alt="png-image">
+                           <img src="{{asset('frontend/images/3RcdbTs582_1650188706.jpg')}}" alt="png-image">
                            <span class="ms">MS: 518480</span>
                         </a>
                      </div>
@@ -592,7 +592,7 @@
                      <div class="image">
                         <a href="/acc/518480">
                            <!-- <a href="/acc/518480"> -->
-                           <img src="img/3RcdbTs582_1650188706.jpg" alt="png-image">
+                           <img src="{{asset('frontend/images/3RcdbTs582_1650188706.jpg')}}" alt="png-image">
                            <span class="ms">MS: 518480</span>
                         </a>
                      </div>
@@ -637,7 +637,7 @@
                      <div class="image">
                         <a href="/acc/518480">
                            <!-- <a href="/acc/518480"> -->
-                           <img src="img/3RcdbTs582_1650188706.jpg" alt="png-image">
+                           <img src="{{asset('frontend/images/3RcdbTs582_1650188706.jpg')}}" alt="png-image">
                            <span class="ms">MS: 518480</span>
                         </a>
                      </div>
