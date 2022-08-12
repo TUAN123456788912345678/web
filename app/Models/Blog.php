@@ -11,6 +11,6 @@ class Blog extends Model
      public $timestamp = false;
     protected $table ='category';
     protected $fillable =[
-        'title', 'description', 'image', 'status', 'content'
+        'title', 'description', 'image', 'status', 'content','updated_at','created_at'
     ];
 }
