@@ -1,2 +1,8 @@
 trong bảng mysql admin tạo bảng user 
 cột là id name password status và image
+sửa bất cứ 1 cái gì trong note này k annhr hưởng tới code thì ok
+sau đó lưu lại
+câu lệnh để comit:
+git add .
+git commit -m "huyedit"
+git push
