@@ -3,6 +3,7 @@
     <div class="container">
         @include('admin.include.navbar')
     </div>
+    
 @endsection
 @section('content')
 

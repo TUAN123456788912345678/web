@@ -11,7 +11,7 @@ class IndexController extends Controller
     public function home(){
         $slider = Slider::orderBy('id','DESC')->where('status',0)->get();
         $category = Category::orderBy('id','DESC')->get();
-        return view('pages.home', compact('category','slider'));
+        return view('home', compact('category','slider'));
     }
     public function services(){
         $slider = Slider::orderBy('id','DESC')->where('status',0)->get();

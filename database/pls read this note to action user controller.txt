@@ -1,0 +1,2 @@
+trong bảng mysql admin tạo bảng user 
+cột là id name password status và image
