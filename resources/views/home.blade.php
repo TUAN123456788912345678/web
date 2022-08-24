@@ -1,5 +1,6 @@
 @extends('layouts.app')
 @section('navbar')
+    
     <div class="container">
         @include('admin.include.navbar')
     </div>
