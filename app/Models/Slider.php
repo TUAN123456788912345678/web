@@ -7,6 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class Slider extends Model
 {
+    // Model slider
     use HasFactory;
      public $timestamp = false;
     protected $table ='slider';
