@@ -85,7 +85,7 @@ class UserController extends Controller
         return redirect()->back()->with('status','User update Successfully');
     }
 
-    
+// Xoa dữ liệu user dựa trênn id
     public function destroy(User $user)
     {
         //
