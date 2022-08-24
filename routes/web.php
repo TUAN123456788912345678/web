@@ -16,7 +16,7 @@ use App\Http\Controllers\UserController;
 | contains the "web" middleware group. Now create something great!
 |
 */
-
+//index
 Route::get('/', [IndexController::class,'home'])->name('home');
 Route::get('/dich-vu', [IndexController::class,'services'])->name('services'); //tất cả phu thuoc vao game
 Route::get('/sub_services', [IndexController::class,'sub_services'])->name('sub_services'); //dịch vụ conv thuộc địch vụ
