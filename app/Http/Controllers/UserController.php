@@ -9,21 +9,20 @@ use Illuminate\Support\Facades\File;
 
 class UserController extends Controller
 {
-    //
+    // User Controller
     public function index()
     {
         $user = User::all();
         return view('user.users.index',compact('user'));
     }
-
+// Tao moi user
     public function create()
     {
-        //
         return view('user.users.create');
     }
 
     
-
+// View user
     public function store(Request $request)
     {   
         $user = new User();
@@ -52,7 +51,7 @@ class UserController extends Controller
     
 
 
-   
+// Chinh sua user kéo dữ liệu về
     public function edit($id)
     {
         $user = User::find($id);
@@ -60,7 +59,7 @@ class UserController extends Controller
         return view('user.users.edit',compact('user'));
     }
 
-   
+// Chỉnh sửa user Đẩy dữ liệu lên
     public function update(Request $request, $id)
     {   
         $user = new User();
