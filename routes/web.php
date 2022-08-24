@@ -27,7 +27,7 @@ Auth::routes();
 Route::get('/home', [HomeController::class, 'index'])->name('home');
 //category
 Route::resource('/category', CategoryController::class);
-
+//Slider
 Route::resource('/slider', SliderController::class);
 
 //user
